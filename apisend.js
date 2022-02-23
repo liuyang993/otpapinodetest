@@ -5,7 +5,7 @@ var options = {
   'url': 'https://otpapi.worldhubcom.com/api/mcotp/send',
   'headers': {
     'Content-Type': 'application/json',
-    'Authorization': 'Basic M2lwY3VuZnY5bGJhOjB5OWp5d3FpZXBkOQ=='
+    'Authorization': 'Basic writebasicautherhere'
   },
   body: JSON.stringify({
     "to": "62967888000",
